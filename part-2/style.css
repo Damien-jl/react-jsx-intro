@@ -1,0 +1,11 @@
+.tweet {
+    border: solid black;
+    border-radius: 4px;
+    padding: 5px;
+    margin: auto;
+}
+
+.username {
+    font-size: 3px;
+    padding: 5px;
+}
